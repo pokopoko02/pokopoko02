@@ -1,8 +1,16 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=pokopoko02&left_color=gray&right_color=blue)
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pokopoko02&theme=vue)
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pokopoko02&show_icons=true)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokopoko02&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋
 
+### My name is Ryo Nagai
+
+<!-- リポジトリステータス -->
+[![Ryo Nagai's github stats](https://github-readme-stats.vercel.app/api?username=pokopoko02&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/pokopoko02/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokopoko02&layout=compact&theme=tokyonight)](https://github.com/pokopoko02/)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pokopoko02&theme=tokyonight)
+
+
+
+<!--
+-->
