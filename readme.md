@@ -4,7 +4,7 @@
 <!-- Profile Views -->
 ![](https://komarev.com/ghpvc/?username=pokopoko02)
 <!-- LinkedInバッジ -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://jp.linkedin.com/in/ryo-nagai-119911200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://jp.linkedin.com/in/ryo-nagai-119911200)
 
 <!-- Profile -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
