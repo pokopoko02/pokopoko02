@@ -3,8 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=pokopoko02)
 
-[linkedin](https://jp.linkedin.com/in/ryo-nagai-119911200)
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pokopoko02&count_private=true&show_icons=true&theme=tokyonight"/>
